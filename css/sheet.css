@@ -1,0 +1,30 @@
+.text1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: medium;
+}
+
+.textlink1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: medium;
+	color: #CC0000;
+}
+
+.textlinkdown {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: x-small;
+	color: #000000;
+}
+
+.text2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: small;
+}
+
+.text3 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: x-small;
+}
+.text4 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: large;
+}
